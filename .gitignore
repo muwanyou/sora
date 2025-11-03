@@ -1,0 +1,9 @@
+# 编辑器目录
+.idea/
+.vscode/
+
+# 依赖目录
+node_modules/
+
+# 构建产物目录
+dist/
